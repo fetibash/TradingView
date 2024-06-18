@@ -25,4 +25,4 @@ you need to try the following steps:
 
 # How to build
 
-* Install [Node.js](https://nodejs.org)
+* Install [Tradingview Desktop](https://www.tradingview.com/desktop/)
