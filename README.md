@@ -1,10 +1,9 @@
 TradingView Desktop Version
 
-TradingView Desktop Version built with [Electron](https://www.electronjs.org)
+TradingView Desktop Version built with [Electron]
 
-![](assets/images/screenshot.png)
+https://www.tradingview.com/desktop/
 
-[简体中文](README.zh.md)
 
 # Features
 * Block ads
