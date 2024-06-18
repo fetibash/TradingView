@@ -2,7 +2,7 @@ TradingView Desktop Version
 
 TradingView Desktop Version built with [Electron]
 
-https://www.tradingview.com/desktop/
+[https://www.tradingview.com/desktop/](https://i.ytimg.com/vi/wRv9UkMZ2bU/maxresdefault.jpg)
 
 
 # Features
