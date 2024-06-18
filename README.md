@@ -1,6 +1,6 @@
-# Unofficial TradingView Desktop Version
+TradingView Desktop Version
 
-Unofficial TradingView Desktop Version built with [Electron](https://www.electronjs.org)
+TradingView Desktop Version built with [Electron](https://www.electronjs.org)
 
 ![](assets/images/screenshot.png)
 
@@ -10,7 +10,7 @@ Unofficial TradingView Desktop Version built with [Electron](https://www.electro
 * Block ads
 * Block trial notification
 * Refresh(F5 or Ctrl+R)
-* Check for updates
+* 
 
 # Solve the login failure problem
 If the following situation occurs when you login
